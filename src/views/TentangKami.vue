@@ -460,15 +460,6 @@ Asal-usul Inspirasi Produk
         Sertifikasi kelayakan pangan yang menjamin keamanan produk untuk dikonsumsi.
       </p>
     </div>
-    <div class="p-6 border rounded-2xl shadow-md bg-white w-full max-w-sm flex flex-col items-center transition hover:shadow-lg hover:scale-[1.02] duration-300">
-      <div class="overflow-hidden rounded-lg border mb-4 w-full h-64 bg-gray-50 flex items-center justify-center">
-        <img src="" alt="BPOM" class="object-contain w-full h-full" />
-      </div>
-      <p class="font-semibold text-center">BPOM</p>
-      <p class="text-sm text-gray-600 text-center mt-1">
-        Sertifikasi kelayakan pangan yang menjamin keamanan produk untuk dikonsumsi.
-      </p>
-    </div>
   </div>
 </div>
 
