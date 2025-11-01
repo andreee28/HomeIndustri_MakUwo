@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <div v-if="product" class="max-w-4xl mx-auto bg-white rounded-2xl shadow-xl mt-10 overflow-hidden">
     <div class="relative">
       <img :src="product.images[currentImage]" :alt="product.name" class="w-full h-96 object-cover" />
@@ -102,4 +102,4 @@ const sendToWhatsApp = () => {
   const url = `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
   window.open(url, '_blank');
 };
-</script>
+</script> -->

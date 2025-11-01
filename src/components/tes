@@ -1,58 +1,58 @@
-const blogs = [
-  {
-    judul: "Inovasi Rasa Tradisional dengan Sentuhan Modern",
-    deskripsi:
-      "Kunci sukses kuliner masa kini adalah menjaga cita rasa tradisional sambil berani berinovasi.",
-    isi: "Rasa tradisional selalu punya tempat di hati masyarakat Indonesia. Namun, di era modern ini, tantangan terbesar pelaku kuliner adalah bagaimana menghadirkan sesuatu yang baru tanpa kehilangan jati diri. Inovasi bukan berarti meninggalkan tradisi, melainkan memperkaya cita rasa agar lebih relevan dengan selera zaman. Banyak UMKM kuliner berhasil menonjol karena berani bereksperimen dengan bahan atau teknik baru. Misalnya, mengombinasikan bumbu klasik dengan metode memasak modern, atau menyajikan tampilan yang lebih kekinian tanpa mengubah inti rasa. Inovasi kecil seperti ini sering kali membuat produk lebih menarik di mata pelanggan baru. Yang penting adalah konsistensi rasa dan kesesuaian konsep. Jangan sampai inovasi justru menghilangkan ciri khas produk. Dengan riset dan uji coba, pelaku kuliner bisa menciptakan kreasi unik yang tetap menghormati warisan rasa dari masa lalu."
-  },
-  {
-    judul: "Rahasia Mengolah Bahan Lokal Jadi Produk Premium",
-    deskripsi:
-      "Bahan lokal Indonesia menyimpan potensi besar untuk menciptakan produk kelas dunia.",
-    isi: "Indonesia kaya akan bahan pangan berkualitas, mulai dari rempah, hasil laut, hingga umbi-umbian. Banyak di antaranya belum dimanfaatkan secara optimal oleh pelaku UMKM. Padahal, dengan sedikit kreativitas dan sentuhan profesional, bahan-bahan ini bisa berubah menjadi produk yang bernilai tinggi. Kuncinya terletak pada pemilihan bahan, proses pengolahan, dan cara penyajian. Misalnya, penggunaan daun teh lokal dalam olahan rendang bukan hanya menciptakan cita rasa unik, tapi juga memperkenalkan kekayaan daerah kepada konsumen. Nilai tambah seperti inilah yang membuat produk lokal terasa eksklusif. Selain itu, branding berperan besar dalam mengangkat nilai bahan lokal. Ceritakan asal bahan, proses panen, dan siapa petani di baliknya — kisah ini membangun kepercayaan dan membuat pelanggan merasa terhubung dengan produk."
-  },
-  {
-    judul: "Cara Menentukan Cita Rasa Khas Produkmu",
-    deskripsi:
-      "Cita rasa khas adalah identitas yang membuat produk kamu mudah diingat pelanggan.",
-    isi: "Setiap makanan yang sukses di pasaran punya satu kesamaan: rasa khas yang membuat orang ingin kembali. Untuk menemukan rasa khas itu, pelaku UMKM perlu memahami karakter bahan dan selera target pasar. Prosesnya mungkin butuh waktu, tapi hasilnya akan jadi pondasi kuat bagi brand kuliner kamu. Mulailah dengan menguji beberapa variasi rasa. Ajak teman, keluarga, atau pelanggan awal untuk memberi masukan jujur. Catat setiap perbedaan kecil, baik dari tingkat kepedasan, gurih, hingga aroma. Dari situ, kamu bisa menemukan perpaduan rasa yang paling pas. Begitu cita rasa khas sudah terbentuk, jaga konsistensinya. Pelanggan datang bukan hanya karena enak, tapi karena mereka tahu rasa itu tidak akan berubah setiap kali membeli."
-  },
-  {
-    judul: "Tips Mengembangkan Varian Produk Tanpa Kehilangan Ciri Asli",
-    deskripsi:
-      "Menambah varian produk bisa menarik pasar baru, asal tetap menjaga identitas rasa utama.",
-    isi: "Mengembangkan varian produk adalah strategi umum untuk memperluas pasar. Namun, banyak bisnis yang kehilangan jati diri karena terlalu fokus pada tren tanpa mempertimbangkan kesesuaian dengan identitas brand. Padahal, pelanggan menyukai inovasi yang tetap terasa 'kamu'. Langkah pertama adalah memahami apa yang menjadi kekuatan utama produkmu — misalnya rasa gurih khas, aroma rempah, atau tekstur yang unik. Pastikan setiap varian tetap mempertahankan ciri khas tersebut. Dengan begitu, pelanggan bisa mengenali bahwa semua varian berasal dari satu brand yang sama. Selain itu, uji pasar sebelum merilis varian baru sangat penting. Dengarkan umpan balik pelanggan dan lihat mana yang paling diminati. Jangan terburu-buru merilis banyak produk sekaligus; lebih baik sedikit tapi kuat identitasnya."
-  },
-  {
-    judul: "Cara Promosi UMKM Kuliner di Instagram",
-    deskripsi:
-      "Instagram bisa jadi alat promosi paling efektif jika kamu tahu cara memanfaatkannya dengan tepat.",
-    isi: "Instagram adalah etalase digital bagi pelaku kuliner. Foto makanan yang menggugah selera bisa menarik perhatian calon pelanggan hanya dalam hitungan detik. Tapi lebih dari sekadar tampilan, promosi yang efektif di Instagram butuh strategi yang konsisten dan autentik. Gunakan foto berkualitas tinggi dan pencahayaan alami untuk menonjolkan kelezatan produkmu. Sertakan caption yang bercerita, bukan hanya menjual. Misalnya, ceritakan proses pembuatan, bahan-bahan lokal yang digunakan, atau inspirasi di balik menu tersebut. Jangan lupa manfaatkan fitur-fitur seperti Reels, Stories, dan kolaborasi dengan kreator lokal. Dengan strategi ini, kamu bisa membangun komunitas yang loyal dan membuat brand kamu dikenal lebih luas tanpa harus beriklan besar-besaran."
-  },
-  {
-    judul: "Kapan Waktu Terbaik Posting Produk di Media Sosial",
-    deskripsi:
-      "Timing yang tepat bisa meningkatkan interaksi dan peluang penjualan produkmu secara signifikan.",
-    isi: "Waktu posting di media sosial sangat berpengaruh terhadap jangkauan dan engagement. Setiap audiens punya kebiasaan online yang berbeda, jadi memahami perilaku target pasar adalah langkah awal yang penting. Untuk UMKM kuliner, waktu terbaik umumnya adalah menjelang jam makan siang dan sore hari. Pada saat itu, banyak orang sedang mencari ide makanan atau camilan. Namun, kamu tetap perlu melakukan uji coba dengan memantau performa posting di berbagai waktu. Gunakan fitur analitik di platform seperti Instagram untuk melihat kapan followers kamu paling aktif. Dengan strategi waktu yang tepat, konten promosi bisa lebih efektif tanpa harus menambah biaya iklan."
-  },
-  {
-    judul: "Pentingnya Foto Produk yang Profesional",
-    deskripsi:
-      "Foto produk yang menarik bisa jadi pembeda utama di antara pesaing dalam bisnis kuliner.",
-    isi: "Dalam bisnis kuliner, visual sering kali berbicara lebih dulu sebelum rasa. Foto produk yang baik tidak hanya memperlihatkan makanan, tetapi juga menciptakan rasa lapar di mata calon pelanggan. Karena itu, penting bagi UMKM untuk memahami dasar fotografi produk. Gunakan pencahayaan alami, latar belakang sederhana, dan angle yang menonjolkan tekstur makanan. Tidak perlu kamera mahal — smartphone pun bisa menghasilkan foto bagus dengan teknik yang tepat. Fokus pada kejujuran tampilan: jangan sampai foto terlalu berlebihan dibanding kenyataannya. Foto yang konsisten dan estetik juga membantu memperkuat identitas brand di media sosial. Ketika pelanggan melihat feed yang rapi dan menggugah, mereka akan lebih percaya pada kualitas produkmu."
-  },
-  {
-    judul: "Mengapa UMKM Harus Punya Website Sendiri",
-    deskripsi:
-      "Website bukan sekadar tempat jualan, tapi juga pusat informasi resmi yang meningkatkan kepercayaan pelanggan.",
-    isi: "Banyak pelaku UMKM masih mengandalkan media sosial sebagai satu-satunya tempat promosi. Padahal, memiliki website sendiri memberikan banyak keunggulan — mulai dari profesionalitas, kemudahan informasi, hingga peningkatan kredibilitas. Website bisa menampung profil usaha, katalog produk, testimoni, hingga blog yang menceritakan perjalanan bisnismu. Selain itu, website membuat pelanggan mudah menemukan produkmu lewat mesin pencari seperti Google. Ini artinya, jangkauan pasar bisa jauh lebih luas. Yang terpenting, website adalah aset digital yang kamu miliki sendiri. Tidak seperti media sosial yang bisa berubah aturan sewaktu-waktu, website memastikan usahamu punya rumah tetap di dunia online."
-  }
-];
+// const blogs = [
+//   {
+//     judul: "Inovasi Rasa Tradisional dengan Sentuhan Modern",
+//     deskripsi:
+//       "Kunci sukses kuliner masa kini adalah menjaga cita rasa tradisional sambil berani berinovasi.",
+//     isi: "Rasa tradisional selalu punya tempat di hati masyarakat Indonesia. Namun, di era modern ini, tantangan terbesar pelaku kuliner adalah bagaimana menghadirkan sesuatu yang baru tanpa kehilangan jati diri. Inovasi bukan berarti meninggalkan tradisi, melainkan memperkaya cita rasa agar lebih relevan dengan selera zaman. Banyak UMKM kuliner berhasil menonjol karena berani bereksperimen dengan bahan atau teknik baru. Misalnya, mengombinasikan bumbu klasik dengan metode memasak modern, atau menyajikan tampilan yang lebih kekinian tanpa mengubah inti rasa. Inovasi kecil seperti ini sering kali membuat produk lebih menarik di mata pelanggan baru. Yang penting adalah konsistensi rasa dan kesesuaian konsep. Jangan sampai inovasi justru menghilangkan ciri khas produk. Dengan riset dan uji coba, pelaku kuliner bisa menciptakan kreasi unik yang tetap menghormati warisan rasa dari masa lalu."
+//   },
+//   {
+//     judul: "Rahasia Mengolah Bahan Lokal Jadi Produk Premium",
+//     deskripsi:
+//       "Bahan lokal Indonesia menyimpan potensi besar untuk menciptakan produk kelas dunia.",
+//     isi: "Indonesia kaya akan bahan pangan berkualitas, mulai dari rempah, hasil laut, hingga umbi-umbian. Banyak di antaranya belum dimanfaatkan secara optimal oleh pelaku UMKM. Padahal, dengan sedikit kreativitas dan sentuhan profesional, bahan-bahan ini bisa berubah menjadi produk yang bernilai tinggi. Kuncinya terletak pada pemilihan bahan, proses pengolahan, dan cara penyajian. Misalnya, penggunaan daun teh lokal dalam olahan rendang bukan hanya menciptakan cita rasa unik, tapi juga memperkenalkan kekayaan daerah kepada konsumen. Nilai tambah seperti inilah yang membuat produk lokal terasa eksklusif. Selain itu, branding berperan besar dalam mengangkat nilai bahan lokal. Ceritakan asal bahan, proses panen, dan siapa petani di baliknya — kisah ini membangun kepercayaan dan membuat pelanggan merasa terhubung dengan produk."
+//   },
+//   {
+//     judul: "Cara Menentukan Cita Rasa Khas Produkmu",
+//     deskripsi:
+//       "Cita rasa khas adalah identitas yang membuat produk kamu mudah diingat pelanggan.",
+//     isi: "Setiap makanan yang sukses di pasaran punya satu kesamaan: rasa khas yang membuat orang ingin kembali. Untuk menemukan rasa khas itu, pelaku UMKM perlu memahami karakter bahan dan selera target pasar. Prosesnya mungkin butuh waktu, tapi hasilnya akan jadi pondasi kuat bagi brand kuliner kamu. Mulailah dengan menguji beberapa variasi rasa. Ajak teman, keluarga, atau pelanggan awal untuk memberi masukan jujur. Catat setiap perbedaan kecil, baik dari tingkat kepedasan, gurih, hingga aroma. Dari situ, kamu bisa menemukan perpaduan rasa yang paling pas. Begitu cita rasa khas sudah terbentuk, jaga konsistensinya. Pelanggan datang bukan hanya karena enak, tapi karena mereka tahu rasa itu tidak akan berubah setiap kali membeli."
+//   },
+//   {
+//     judul: "Tips Mengembangkan Varian Produk Tanpa Kehilangan Ciri Asli",
+//     deskripsi:
+//       "Menambah varian produk bisa menarik pasar baru, asal tetap menjaga identitas rasa utama.",
+//     isi: "Mengembangkan varian produk adalah strategi umum untuk memperluas pasar. Namun, banyak bisnis yang kehilangan jati diri karena terlalu fokus pada tren tanpa mempertimbangkan kesesuaian dengan identitas brand. Padahal, pelanggan menyukai inovasi yang tetap terasa 'kamu'. Langkah pertama adalah memahami apa yang menjadi kekuatan utama produkmu — misalnya rasa gurih khas, aroma rempah, atau tekstur yang unik. Pastikan setiap varian tetap mempertahankan ciri khas tersebut. Dengan begitu, pelanggan bisa mengenali bahwa semua varian berasal dari satu brand yang sama. Selain itu, uji pasar sebelum merilis varian baru sangat penting. Dengarkan umpan balik pelanggan dan lihat mana yang paling diminati. Jangan terburu-buru merilis banyak produk sekaligus; lebih baik sedikit tapi kuat identitasnya."
+//   },
+//   {
+//     judul: "Cara Promosi UMKM Kuliner di Instagram",
+//     deskripsi:
+//       "Instagram bisa jadi alat promosi paling efektif jika kamu tahu cara memanfaatkannya dengan tepat.",
+//     isi: "Instagram adalah etalase digital bagi pelaku kuliner. Foto makanan yang menggugah selera bisa menarik perhatian calon pelanggan hanya dalam hitungan detik. Tapi lebih dari sekadar tampilan, promosi yang efektif di Instagram butuh strategi yang konsisten dan autentik. Gunakan foto berkualitas tinggi dan pencahayaan alami untuk menonjolkan kelezatan produkmu. Sertakan caption yang bercerita, bukan hanya menjual. Misalnya, ceritakan proses pembuatan, bahan-bahan lokal yang digunakan, atau inspirasi di balik menu tersebut. Jangan lupa manfaatkan fitur-fitur seperti Reels, Stories, dan kolaborasi dengan kreator lokal. Dengan strategi ini, kamu bisa membangun komunitas yang loyal dan membuat brand kamu dikenal lebih luas tanpa harus beriklan besar-besaran."
+//   },
+//   {
+//     judul: "Kapan Waktu Terbaik Posting Produk di Media Sosial",
+//     deskripsi:
+//       "Timing yang tepat bisa meningkatkan interaksi dan peluang penjualan produkmu secara signifikan.",
+//     isi: "Waktu posting di media sosial sangat berpengaruh terhadap jangkauan dan engagement. Setiap audiens punya kebiasaan online yang berbeda, jadi memahami perilaku target pasar adalah langkah awal yang penting. Untuk UMKM kuliner, waktu terbaik umumnya adalah menjelang jam makan siang dan sore hari. Pada saat itu, banyak orang sedang mencari ide makanan atau camilan. Namun, kamu tetap perlu melakukan uji coba dengan memantau performa posting di berbagai waktu. Gunakan fitur analitik di platform seperti Instagram untuk melihat kapan followers kamu paling aktif. Dengan strategi waktu yang tepat, konten promosi bisa lebih efektif tanpa harus menambah biaya iklan."
+//   },
+//   {
+//     judul: "Pentingnya Foto Produk yang Profesional",
+//     deskripsi:
+//       "Foto produk yang menarik bisa jadi pembeda utama di antara pesaing dalam bisnis kuliner.",
+//     isi: "Dalam bisnis kuliner, visual sering kali berbicara lebih dulu sebelum rasa. Foto produk yang baik tidak hanya memperlihatkan makanan, tetapi juga menciptakan rasa lapar di mata calon pelanggan. Karena itu, penting bagi UMKM untuk memahami dasar fotografi produk. Gunakan pencahayaan alami, latar belakang sederhana, dan angle yang menonjolkan tekstur makanan. Tidak perlu kamera mahal — smartphone pun bisa menghasilkan foto bagus dengan teknik yang tepat. Fokus pada kejujuran tampilan: jangan sampai foto terlalu berlebihan dibanding kenyataannya. Foto yang konsisten dan estetik juga membantu memperkuat identitas brand di media sosial. Ketika pelanggan melihat feed yang rapi dan menggugah, mereka akan lebih percaya pada kualitas produkmu."
+//   },
+//   {
+//     judul: "Mengapa UMKM Harus Punya Website Sendiri",
+//     deskripsi:
+//       "Website bukan sekadar tempat jualan, tapi juga pusat informasi resmi yang meningkatkan kepercayaan pelanggan.",
+//     isi: "Banyak pelaku UMKM masih mengandalkan media sosial sebagai satu-satunya tempat promosi. Padahal, memiliki website sendiri memberikan banyak keunggulan — mulai dari profesionalitas, kemudahan informasi, hingga peningkatan kredibilitas. Website bisa menampung profil usaha, katalog produk, testimoni, hingga blog yang menceritakan perjalanan bisnismu. Selain itu, website membuat pelanggan mudah menemukan produkmu lewat mesin pencari seperti Google. Ini artinya, jangkauan pasar bisa jauh lebih luas. Yang terpenting, website adalah aset digital yang kamu miliki sendiri. Tidak seperti media sosial yang bisa berubah aturan sewaktu-waktu, website memastikan usahamu punya rumah tetap di dunia online."
+//   }
+// ];
 
 
 
-"Rendang Daun Teh lahir dari sebuah ide sederhana yang berangkat dari kebiasaan masyarakat Kampar dalam menikmati teh setelah makan. Di daerah ini, teh bukan sekadar minuman pelengkap, melainkan bagian dari tradisi dan simbol kehangatan dalam setiap pertemuan. Dari kebiasaan itulah muncul gagasan untuk memadukan dua hal yang sama-sama kuat dalam budaya lokal: rendang sebagai ikon kuliner Minangkabau yang sarat makna, dan daun teh sebagai representasi kesejukan serta kebersamaan. Ide tersebut berkembang menjadi inovasi kuliner unik yang memadukan aroma khas daun teh dengan kekayaan rempah rendang, menghasilkan cita rasa baru yang tidak hanya lezat tetapi juga membawa nilai cerita di setiap gigitannya. Setiap proses pembuatan Rendang Daun Teh dilakukan dengan penuh perhatian terhadap keseimbangan rasa, agar tidak ada satu pun unsur yang mendominasi. Inilah yang membuat hidangan ini berbeda — perpaduan antara tradisi dan kreativitas yang diolah dengan cinta terhadap budaya sendiri. Melalui inovasi ini, kami ingin menghadirkan pengalaman kuliner yang tidak hanya memanjakan lidah, tetapi juga mengingatkan kita pada kekayaan tradisi lokal yang patut dijaga dan dikembangkan."
+// "Rendang Daun Teh lahir dari sebuah ide sederhana yang berangkat dari kebiasaan masyarakat Kampar dalam menikmati teh setelah makan. Di daerah ini, teh bukan sekadar minuman pelengkap, melainkan bagian dari tradisi dan simbol kehangatan dalam setiap pertemuan. Dari kebiasaan itulah muncul gagasan untuk memadukan dua hal yang sama-sama kuat dalam budaya lokal: rendang sebagai ikon kuliner Minangkabau yang sarat makna, dan daun teh sebagai representasi kesejukan serta kebersamaan. Ide tersebut berkembang menjadi inovasi kuliner unik yang memadukan aroma khas daun teh dengan kekayaan rempah rendang, menghasilkan cita rasa baru yang tidak hanya lezat tetapi juga membawa nilai cerita di setiap gigitannya. Setiap proses pembuatan Rendang Daun Teh dilakukan dengan penuh perhatian terhadap keseimbangan rasa, agar tidak ada satu pun unsur yang mendominasi. Inilah yang membuat hidangan ini berbeda — perpaduan antara tradisi dan kreativitas yang diolah dengan cinta terhadap budaya sendiri. Melalui inovasi ini, kami ingin menghadirkan pengalaman kuliner yang tidak hanya memanjakan lidah, tetapi juga mengingatkan kita pada kekayaan tradisi lokal yang patut dijaga dan dikembangkan."
 
 
-"Rendang Daun Teh lahir dari gagasan untuk menghadirkan cita rasa baru tanpa meninggalkan akar tradisi Nusantara. Inspirasi ini muncul dari kebiasaan masyarakat Kampar yang menjadikan teh sebagai bagian penting dalam keseharian, bukan sekadar minuman, melainkan simbol kehangatan dan kebersamaan. Dari situ muncul ide untuk memadukan daun teh dengan rendang — sebuah makanan yang dikenal karena proses memasaknya yang panjang dan sarat filosofi kesabaran. Kami melihat potensi besar untuk menghadirkan sesuatu yang berbeda, yaitu rendang dengan aroma khas daun teh yang lembut namun tetap mempertahankan kekayaan bumbu rempahnya. Setelah melalui berbagai percobaan, akhirnya tercipta perpaduan sempurna antara rasa gurih, sedikit pahit alami dari daun teh, dan aroma harum yang menggugah selera. Setiap langkah pembuatannya dilakukan dengan penuh kehati-hatian agar keseimbangan rasa tetap terjaga, mulai dari pemilihan bahan segar, pengolahan santan hingga proses pemasakan yang memakan waktu berjam-jam. Rendang Daun Teh bukan sekadar makanan, tetapi wujud dari semangat inovasi lokal yang menghargai budaya, menggabungkan nilai-nilai tradisional dengan sentuhan modern. Kami ingin setiap pelanggan tidak hanya menikmati kelezatan rasa, tetapi juga memahami kisah dan makna di balik setiap potongan rendang yang kami sajikan."
+// "Rendang Daun Teh lahir dari gagasan untuk menghadirkan cita rasa baru tanpa meninggalkan akar tradisi Nusantara. Inspirasi ini muncul dari kebiasaan masyarakat Kampar yang menjadikan teh sebagai bagian penting dalam keseharian, bukan sekadar minuman, melainkan simbol kehangatan dan kebersamaan. Dari situ muncul ide untuk memadukan daun teh dengan rendang — sebuah makanan yang dikenal karena proses memasaknya yang panjang dan sarat filosofi kesabaran. Kami melihat potensi besar untuk menghadirkan sesuatu yang berbeda, yaitu rendang dengan aroma khas daun teh yang lembut namun tetap mempertahankan kekayaan bumbu rempahnya. Setelah melalui berbagai percobaan, akhirnya tercipta perpaduan sempurna antara rasa gurih, sedikit pahit alami dari daun teh, dan aroma harum yang menggugah selera. Setiap langkah pembuatannya dilakukan dengan penuh kehati-hatian agar keseimbangan rasa tetap terjaga, mulai dari pemilihan bahan segar, pengolahan santan hingga proses pemasakan yang memakan waktu berjam-jam. Rendang Daun Teh bukan sekadar makanan, tetapi wujud dari semangat inovasi lokal yang menghargai budaya, menggabungkan nilai-nilai tradisional dengan sentuhan modern. Kami ingin setiap pelanggan tidak hanya menikmati kelezatan rasa, tetapi juga memahami kisah dan makna di balik setiap potongan rendang yang kami sajikan."
 
