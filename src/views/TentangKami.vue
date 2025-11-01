@@ -429,7 +429,7 @@ Asal-usul Inspirasi Produk
 <div class="mb-16 text-[#101943] px-8 mt-12">
   <h2 class="text-2xl md:text-3xl font-bold mb-12 text-center">Sertifikasi</h2>
 
-  <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-8 justify-items-center">
+  <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 justify-items-center">
     <!-- Sertifikat Halal -->
     <div class="p-6 border rounded-2xl shadow-md bg-white w-full max-w-sm flex flex-col items-center transition hover:shadow-lg hover:scale-[1.02] duration-300">
       <div class="overflow-hidden rounded-lg border mb-4 w-full h-64 bg-gray-50 flex items-center justify-center">
