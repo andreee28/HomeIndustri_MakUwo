@@ -597,6 +597,9 @@ import { useRoute } from 'vue-router'
 import berlangkas1 from "@/assets/berlangkas1.jpg";
 import berlangkas2 from "@/assets/berlangkas2.jpg";
 import berlangkas3 from "@/assets/berlangkas3.jpg";
+import berlangkas4 from "@/assets/berlangkas4.jpg";
+import berlangkas5 from "@/assets/berlangkas5.jpg";
+import berlangkas6 from "@/assets/berlangkas6.jpg";
 
 
 const route = useRoute()
@@ -681,19 +684,19 @@ const slides = [
     title: "Tahan di Iklim Tropis ☀️",
     description:
       "Tanaman berlangkas tumbuh subur di bawah sinar matahari tropis dan tidak memerlukan perawatan rumit. Cocok ditanam di pekarangan rumah, bahkan dengan kondisi tanah sederhana sekalipun.",
-    image: berlangkas1,
+    image: berlangkas4,
   },
   {
     title: "Menambah Kesegaran pada Hidangan 💧",
     description:
       "Selain aromanya yang menenangkan, daun berlangkas mampu memberikan sensasi segar pada makanan, terutama pada masakan berbumbu kuat seperti rendang atau sup tradisional.",
-    image: berlangkas1,
+    image: berlangkas5,
   },
   {
     title: "Ramah Lingkungan dan Alami 🌾",
     description:
       "Tanaman berlangkas tidak memerlukan bahan kimia atau pupuk berlebih untuk tumbuh. Sifatnya yang alami menjadikannya tumbuhan ramah lingkungan dan mudah dibudidayakan oleh siapa saja.",
-    image: berlangkas2,
+    image: berlangkas6,
   },
 ];
 
